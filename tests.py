@@ -1,5 +1,3 @@
-#Шестиричный калькулятор
-
 import unittest
 from main import Ui_MainWindow
 
